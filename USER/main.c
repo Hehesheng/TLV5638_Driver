@@ -1,8 +1,11 @@
 #include "sys.h"
 #include "delay.h"
 #include "usart.h"
-#include "adc.h"
+
 #include "dac.h"
+#include "adc.h"
+
+#include "TLV5638.h"
 
 int main(void)
 { 
@@ -13,7 +16,8 @@ int main(void)
 	
 	Adc_Init(); 				//adc初始化
 	Dac1_Init();		 		//DAC初始化
- 	
+ 	TLV5638
+
 	while(1)
 	{
 		
