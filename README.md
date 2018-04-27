@@ -10,7 +10,7 @@
 
 ###芯片构造简图
 
-![image-20180424213055979](/Users/huanghuisheng/Desktop/Mydesign/TLV5638_Driver/README.assets/image-20180424213055979.png)
+![image-20180424213055979](https://github.com/Hehesheng/TLV5638_Driver/blob/master/README.assets/image-20180424213055979.png?raw=true)
 
 ### 时序图(SPI通讯)
 
