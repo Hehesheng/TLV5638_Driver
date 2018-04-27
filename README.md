@@ -71,4 +71,4 @@ CODE Between 0x000 and 0xFFF
 
 ### Example
 
-![image-20180426193829287](/Users/huanghuisheng/Desktop/Mydesign/TLV5638_Driver/README.assets/image-20180426193829287.png)
+![image-20180426193829287](https://github.com/Hehesheng/TLV5638_Driver/blob/master/README.assets/image-20180426193829287.png?raw=true)
