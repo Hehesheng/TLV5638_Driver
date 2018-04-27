@@ -10,11 +10,11 @@
 
 ###芯片构造简图
 
-![image-20180424213055979](/Users/huanghuisheng/Desktop/Mydesign/TLV5638_Driver/README.assets/image-20180424213055979.png)
+![image-20180424213055979](https://github.com/Hehesheng/TLV5638_Driver/blob/master/README.assets/image-20180424213055979.png?raw=true)
 
 ### 时序图(SPI通讯)
 
-![image-20180424213907834](/Users/huanghuisheng/Desktop/Mydesign/TLV5638_Driver/README.assets/image-20180424213907834.png)
+![image-20180424213907834](https://github.com/Hehesheng/TLV5638_Driver/blob/master/README.assets/image-20180424213907834.png?raw=true)
 
 - CS**下降沿**使能开始,上升沿结束
 - 在SCLK的**下降沿**获取数据
